@@ -1,0 +1,40 @@
+.cam-details{
+    width: 100%;
+}
+
+.cam-name{
+    width: 100%;
+    height: 50px;
+    font-size: 1.8rem;
+    text-align: center;
+    cursor: pointer;
+}
+
+.video-container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.video-stream{
+    width: 640px;
+    height: 480px;
+}
+
+.activity{
+    width: 100%;
+}
+
+.activity ul{
+    list-style-type: none;
+}
+
+.criminal-name{
+    font-weight: bold;
+    color: rgb(4, 100, 190);
+}
+
+.time{
+    margin-left: 20px;
+}
